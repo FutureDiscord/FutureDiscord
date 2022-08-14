@@ -1,4 +1,4 @@
-<a href="https://github.com/Hack3rOG" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="Rdimo's Github"/></a>
+<a href="https://github.com/Hack3rOG" target="_blank"> <img src="https://cdn.discordapp.com/attachments/951596591356215386/1008379785946333224/hacker_github.png" alt="Hacker's Github"/></a>
 
 ```sh-session
 pip install bitches
