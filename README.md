@@ -15,5 +15,5 @@ pip install bitches
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
 🌐・**Website: [https://github.com/Hack3rOG](https://github.com/Hack3rOG)**
 
-<a href="https://github.com/Hack3rOG" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/991247763587211264.png"/></a>
+<a href="https://github.com/Hack3rOG" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/734104031412224051.png"/></a>
 <a href="https://github.com/Hack3rOG" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
