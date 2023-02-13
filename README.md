@@ -11,7 +11,7 @@ pip install bitches
 
 ✔️・**Latest open source project [](https://github.com/Hack3rOG/)**
 
-📩・**Want to reach? Add Hacker#3333 on [discord](https://github.com/Hack3rOG/invite) or mail [contact.rdimo@gmail.com](mailto:contact.hacker@gmail.com)**
+📩・**Want to reach? Add Hacker#3333 on [discord](https://github.com/Hack3rOG/invite) or mail [support@openlimitsllc.xyz](mailto:contact.hacker@gmail.com)**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="" /> </p>
 🌐・**Website: [https://github.com/Hack3rOG](https://github.com/Hack3rOG)**
 
