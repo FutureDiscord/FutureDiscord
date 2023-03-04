@@ -1,7 +1,11 @@
 <a href="https://github.com/Hack3rOG" target="_blank"> <img src="https://media.discordapp.net/attachments/951596591356215386/1081569456028913695/openlimitsgithub.png" alt="OepnLimits's Github"/></a>
 
 ```sh-session
-pip install bitches
+OpenLimits is an authentication system with client SDKs for C#, C++, Python, Java and PHP.
+
+https://openlimitsllc.online
+
+Join our Discord for announcements and to message our ticket system bot about account issues/purchase inquiries https://discord.gg/4d5yWwKkvM
 ```
 
 <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
