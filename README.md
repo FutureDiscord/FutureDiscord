@@ -1,4 +1,4 @@
-<a href="https://github.com/Hack3rOG" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/70512601/222904620-90a63125-3036-4274-b179-fb012f56df29.png)" alt="OepnLimits's Github"/></a>
+<a href="https://github.com/Hack3rOG" target="_blank"> <img src="https://media.discordapp.net/attachments/951596591356215386/1081569456028913695/openlimitsgithub.png" alt="OepnLimits's Github"/></a>
 
 ```sh-session
 pip install bitches
