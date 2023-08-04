@@ -1,4 +1,4 @@
-<a href="https://github.com/Hack3rOG" target="_blank"> <img src="https://media.discordapp.net/attachments/951596591356215386/1081569456028913695/openlimitsgithub.png" alt="OepnLimits's Github"/></a>
+<a href="https://github.com/Hack3rOG" target="_blank"> <img src="https://media.discordapp.net/attachments/1131232129641103493/1136967245868843088/futurediscord_github.png" alt="FutureDiscord's Github"/></a>
 
 ```sh-session
 OpenLimits is an authentication system with client SDKs for C#, C++, Python, Java and PHP.
