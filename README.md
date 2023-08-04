@@ -1,7 +1,7 @@
 <a href="https://github.com/Hack3rOG" target="_blank"> <img src="https://media.discordapp.net/attachments/1131232129641103493/1136967245868843088/futurediscord_github.png" alt="FutureDiscord's Github"/></a>
 
 ```sh-session
-OpenLimits is an authentication system with client SDKs for C#, C++, Python, Java and PHP.
+FutureDiscord is a client modification for Discord with endless flexibility and addons. The only limit to the customization is your own imagination.
 
 https://openlimitsllc.online
 
